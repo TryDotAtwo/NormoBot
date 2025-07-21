@@ -1,0 +1,5 @@
+python-telegram-bot
+PyPDF2
+reportlab
+g4f
+python-dotenv
